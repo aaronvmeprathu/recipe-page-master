@@ -1,0 +1,36 @@
+.title{
+    font-family: 'Playfair Display', serif;
+font-style: normal;
+font-weight: bold;
+}
+.discription1{
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+font-weight: 500;
+}
+.Ingredient{
+
+        font-family: 'Playfair Display', serif;
+    font-style: normal;
+font-weight: bold;
+font-size:  1.5em;
+}
+.subhead{
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+font-weight: normal;
+font-size: 1.125em;
+}
+.subpoints{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1em;
+}
+.boldtext{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1em;
+
+}
