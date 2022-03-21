@@ -8,7 +8,7 @@ font-weight: bold;
     font-style: italic;
 font-weight: 500;
 }
-.Ingredient{
+.topheading{
 
         font-family: 'Playfair Display', serif;
     font-style: normal;
@@ -34,3 +34,70 @@ font-size: 1.125em;
     font-size: 1em;
 
 }
+.lastpoints{
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+}
+.lightfont{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+.num{
+    color: rgb(255, 255, 255);
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    background: #F2994A;
+border-radius: 6px;
+width:1.25em;
+height:1.25em;
+text-align: center;
+
+}
+.cprn{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+}
+.cr{
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #828282;
+    
+}
+.yields{
+    background: #FFFFFF;
+box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1);
+border-radius: 12px;
+}
+.dining {
+    color: #F2994A;
+    }
+    .yie{
+        font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+        color:#BDBDBD;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 0.625em;
+        
+    }
+    .material-icons{
+        font-size: 2.5em;
+    }
+    .discro{
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-size: 1em;
+font-weight: 500;
+
+;
+    }
+    .serving{
+        font-family: 'Montserrat', sans-serif;
+        font-style: normal;
+        font-size: 1em;
+font-weight: 500;
+        color:#F2994A;
+    }
